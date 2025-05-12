@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65ce6e97-ef19-4b9b-b6ac-929bb7835d13" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../问题一代码+数据+折线图/数据/~$西安2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../问题一代码+数据+折线图/数据/吐鲁番/吐鲁番.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../问题一代码+数据+折线图/数据/婺源/historical_rain_fenfen_plot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../问题一代码+数据+折线图/数据/婺源/wuyuan.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../问题一代码+数据+折线图/数据/婺源/婺源.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../问题一代码+数据+折线图/数据/杭州/hangzhou.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../问题一代码+数据+折线图/数据/杭州/historical_rain_fenfen_plot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../问题一代码+数据+折线图/数据/杭州/杭州.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../问题一代码+数据+折线图/数据/武汉/historical_rain_fenfen_plot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../问题一代码+数据+折线图/数据/武汉/wuhan.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../问题一代码+数据+折线图/数据/武汉/武汉.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../问题一代码+数据+折线图/数据/毕节/bijie.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../问题一代码+数据+折线图/数据/毕节/historical_rain_fenfen_plot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../问题一代码+数据+折线图/数据/毕节/毕节.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../问题一代码+数据+折线图/数据/洛阳/historical_rain_fenfen_plot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../问题一代码+数据+折线图/数据/洛阳/luo yang.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../问题一代码+数据+折线图/数据/洛阳/洛阳.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../问题一代码+数据+折线图/数据/西安/historical_rain_fenfen_plot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../问题一代码+数据+折线图/数据/西安/xian.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../问题一代码+数据+折线图/数据/西安/西安.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../问题一代码+数据+折线图/问题一.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "akatrainning"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/akatrainning/Math_Modeling.git",
+    "accountId": "985c8e86-075b-401e-8682-7c5c96a0d584"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2wxEbCrabMpCMNnvYsAjRjGpMPi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="65ce6e97-ef19-4b9b-b6ac-929bb7835d13" name="更改" comment="" />
+      <created>1746974894224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746974894224</updated>
+      <workItem from="1746984042053" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
